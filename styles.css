@@ -29,3 +29,14 @@ margin:auto;
 boder: 1px red;
 display: flex;
 justify-content: space-between;
+padding:0px 15px;
+}
+.article header title {
+font-size: 1.2rem;
+font-weight: bold;
+}
+.article header date {
+font-size: 0.8rem;
+color:rgb(248, 243, 243);
+ }   
+
